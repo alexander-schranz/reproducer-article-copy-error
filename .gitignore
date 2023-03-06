@@ -29,7 +29,7 @@
 
 # composer
 /composer.phar
-composer.lock
+#composer.lock
 symfony.lock
 
 # npm
